@@ -1,4 +1,4 @@
-@@font-face {
+@font-face {
     font-family: 'lakeshore';
     src: url('fonts/LAKESHOR-webfont.eot');
     src: url('fonts/LAKESHOR-webfont.eot?#iefix')format('embedded-opentype'),
@@ -9,7 +9,7 @@
     font-style: normal;
 }
 
-@@font-face {
+@font-face {
     font-family: 'airstreamregular';
     src: url('fonts/Airstream-webfont.eot');
     src: url('fonts/Airstream-webfont.eot?#iefix')format('embedded-opentype'),
